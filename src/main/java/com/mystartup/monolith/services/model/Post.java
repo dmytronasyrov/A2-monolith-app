@@ -1,4 +1,4 @@
-package com.mystartup.monolith.model;
+package com.mystartup.monolith.services.model;
 
 import lombok.*;
 

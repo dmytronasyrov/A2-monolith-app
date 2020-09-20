@@ -1,17 +1,15 @@
 package com.mystartup.monolith.api;
 
-import com.mystartup.monolith.model.Post;
-import com.mystartup.monolith.model.User;
+import com.mystartup.monolith.api.dto.PostDTO;
+import com.mystartup.monolith.services.model.Post;
+import com.mystartup.monolith.services.model.User;
 import com.mystartup.monolith.services.PostService;
 import com.mystartup.monolith.services.UserService;
-import com.mystartup.monolith.services.dto.PostDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.net.http.HttpHeaders;
-import java.net.http.HttpResponse;
 import java.util.List;
 import java.util.MissingResourceException;
 

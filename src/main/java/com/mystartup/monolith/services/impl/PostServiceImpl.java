@@ -1,6 +1,6 @@
 package com.mystartup.monolith.services.impl;
 
-import com.mystartup.monolith.model.Post;
+import com.mystartup.monolith.services.model.Post;
 import com.mystartup.monolith.services.PostService;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
 package com.mystartup.monolith.services;
 
-import com.mystartup.monolith.model.User;
+import com.mystartup.monolith.services.model.User;
 
 import java.util.List;
 

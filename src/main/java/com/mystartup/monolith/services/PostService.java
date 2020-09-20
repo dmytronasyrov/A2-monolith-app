@@ -1,6 +1,6 @@
 package com.mystartup.monolith.services;
 
-import com.mystartup.monolith.model.Post;
+import com.mystartup.monolith.services.model.Post;
 
 import java.util.List;
 

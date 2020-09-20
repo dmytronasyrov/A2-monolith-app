@@ -1,6 +1,6 @@
 package com.mystartup.monolith.services.impl;
 
-import com.mystartup.monolith.model.User;
+import com.mystartup.monolith.services.model.User;
 import com.mystartup.monolith.services.UserService;
 import org.springframework.stereotype.Service;
 
